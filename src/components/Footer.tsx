@@ -37,8 +37,8 @@ export default function Footer() {
             <h4 className="font-display font-semibold mb-3">Contact</h4>
             <div className="flex flex-col gap-2 text-sm text-muted-foreground">
               <span className="flex items-center gap-2"><Mail className="w-4 h-4" /> hello@docsync.health</span>
-              <span className="flex items-center gap-2"><Phone className="w-4 h-4" /> +1 (555) 123-4567</span>
-              <span className="flex items-center gap-2"><MapPin className="w-4 h-4" /> San Francisco, CA</span>
+              <span className="flex items-center gap-2"><Phone className="w-4 h-4" /> +92 300-6320003</span>
+              <span className="flex items-center gap-2"><MapPin className="w-4 h-4" /> Multan</span>
             </div>
           </div>
         </div>
