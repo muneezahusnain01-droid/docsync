@@ -54,7 +54,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h3 className="font-display font-semibold">Phone</h3>
-                    <p className="text-sm text-muted-foreground">+1 (555) 123-4567</p>
+                    <p className="text-sm text-muted-foreground">+92 300-6320003</p>
                   </div>
                 </div>
                 <div className="glass-card p-6 flex items-start gap-4 hover-lift">
@@ -63,7 +63,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h3 className="font-display font-semibold">Office</h3>
-                    <p className="text-sm text-muted-foreground">123 Health St, San Francisco, CA 94105</p>
+                    <p className="text-sm text-muted-foreground">Multan</p>
                   </div>
                 </div>
               </div>
